@@ -8,6 +8,13 @@ dashboard.
 
 Built as a Data Warehousing and Business Intelligence (DWBI) course project.
 
+## Contributors
+
+- [@talal](https://github.com/talal-11)
+- [@ahmed](https://github.com/Ah65med)
+- [@neha](https://github.com/nehalq)
+- [@shayan](https://github.com/sfxdeve)
+
 ## Pipeline Overview
 
 The ELT pipeline (`elt.ipynb`) runs in five stages:
